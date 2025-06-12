@@ -6,4 +6,4 @@ The MileStop Algorithim is a for locating gas station based on your cars mile pe
 
 ## Licences
 
-MileStop is a paid service if you're planning to use this product for commerical use. In non-commercial use cases the algorithim is free to use.
+MileStop is a paid service if you're planning to use this product for commerical use. In non-commercial use cases the algorithim is free to use. If you'd like to view the licence you can view it [here](https://github.com/PYSX-Physix/MileStop-Algorithim?tab=License-1-ov-file).
